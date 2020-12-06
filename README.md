@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I'm Jack Taylor (OhYea777) 👋
+=================================
 
-<!--
-**OhYea777/OhYea777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a determined and aspiring developer with experience in educational, contractual, and freelance environments. My programming skills are largely self-taught whilst also being supplemented by university education. I always strive to try and learn new things about technologies, and programming, each day.
 
-Here are some ideas to get you started:
+Find me on my socials:
+------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![Email](./icons/envelope-square.svg) Email: [contact@jacktaylor.nz](mailto:contact@jacktaylor.nz)
+- ![Discord](./icons/discord.svg) Discord: [@OhYea777#1337](https://discordapp.com/users/226900963540074498)
+- ![Twitter](./icons/twitter-square.svg) Twitter: [@OhYea777](https://twitter.com/OhYea777)
+- ![Website](./icons/globe-asia.svg) Website: [jacktaylor.nz](https://jacktaylor.nz)
+- ![LinkedIn](./icons/linkedin.svg) LinkedIn: [@OhYea777](https://www.linkedin.com/in/ohyea777/)
