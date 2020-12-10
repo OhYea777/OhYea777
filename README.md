@@ -2,6 +2,9 @@ Hi, I'm Jack Taylor (OhYea777) 👋
 =================================
 
 I am a determined and aspiring developer with experience in educational, contractual, and freelance environments. My programming skills are largely self-taught whilst also being supplemented by university education. I always strive to try and learn new things about technologies, and programming, each day.
+<br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OhYea777&show_icons=true&theme=merko)
 
 Find me on my socials:
 ------------------------
