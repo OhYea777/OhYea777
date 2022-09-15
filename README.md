@@ -8,7 +8,7 @@ university education. I always strive to try and learn new things about technolo
 each day.
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OhYea777&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OhYea777&show_icons=true&theme=merko&count_private=true)
 
 Find me on my socials:
 ------------------------
