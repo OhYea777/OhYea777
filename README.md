@@ -14,6 +14,6 @@ Find me on my socials:
 ------------------------
 
 - ![Email](./icons/envelope-square.svg) Email: [jack@jwt.nz](mailto:jack@jwt.nz)
-- ![Discord](./icons/discord.svg) Discord: [@OhYea777#1337](https://discordapp.com/users/226900963540074498)
+- ![Discord](./icons/discord.svg) Discord: [@OhYea777](https://discordapp.com/users/226900963540074498)
 - ![Twitter](./icons/twitter-square.svg) Twitter: [@OhYea777](https://twitter.com/OhYea777)
 - ![LinkedIn](./icons/linkedin.svg) LinkedIn: [@OhYea777](https://www.linkedin.com/in/ohyea777/)
